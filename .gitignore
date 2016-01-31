@@ -1,5 +1,6 @@
-License
-READNE.md
-Space Engineers Data
-SpaceEngineersMod Errors
-Symlinks for Performance
+*.gitignore
+*.File
+*.md
+*.xlsx
+*.log
+*.txt
