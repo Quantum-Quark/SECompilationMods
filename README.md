@@ -20,7 +20,7 @@ Here I'll post and link all the resources I am using to achieve my goal, some wi
   
   Notepad++ - https://notepad-plus-plus.org/
   
-  Havok Content Tools - https://onedrive.live.com/?authkey=%21ADTlrxBKQfvX654&id=38FFA7F553121F71%21107&cid=38FFA7F553121F71
+  Havok Content Tools - http://forums.keenswh.com/threads/havok-modding-block-collisions-is-no-longer-possible.7374937/
   
   Blender - https://www.blender.org/download/
   
