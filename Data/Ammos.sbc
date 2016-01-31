@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ammos>
+        <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
+      <Id>
+        <TypeId>AmmoDefinition</TypeId>
+        <SubtypeId>TacNukeMissile</SubtypeId>
+      </Id>
+      <BasicProperties>
+        <DesiredSpeed>2000</DesiredSpeed>
+        <SpeedVariance>100</SpeedVariance>
+        <MaxTrajectory>5000</MaxTrajectory>
+        <IsExplosive>true</IsExplosive>
+        <BackkickForce>800</BackkickForce>
+      </BasicProperties>
+      <MissileProperties>
+        <MissileMass>250</MissileMass>
+        <MissileExplosionRadius>75</MissileExplosionRadius>
+        <MissileModelName>Models\Weapons\Tactical_Nuke.mwm</MissileModelName>
+        <MissileAcceleration>50</MissileAcceleration>
+        <MissileInitialSpeed>5</MissileInitialSpeed>
+        <MissileSkipAcceleration>false</MissileSkipAcceleration>
+        <MissileExplosionDamage>2000</MissileExplosionDamage>
+      </MissileProperties>
+    </Ammo>
+  </Ammos>
+</Definitions>
