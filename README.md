@@ -31,3 +31,5 @@ Here I'll post and link all the resources I am using to achieve my goal, some wi
   Blender Toolkit for SE - http://forum.keenswh.com/threads/se-block-tools-for-blender.7285972/
 
   Space Engineers ModSDK - http://www.spaceengineersgame.com/introducing-space-engineers---modsdk.html
+
+  Guides for Modding - http://steamcommunity.com/app/244850/guides/#scrollTop=0
