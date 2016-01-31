@@ -12,7 +12,7 @@ Here I'll post and link all the resources I am using to achieve my goal, some wi
   
   Adobe Photoshop CS2 (use if you dont have anything newer) - http://www.techspot.com/downloads/3689-adobe-photoshop-cs2.html
   
-    Adobe Account Needed (if you don't have one already) - http://www.adobe.com/
+    Adobe Account Needed (if you don't have one already) - <http://www.adobe.com/>
     
   Nvidia Texture Tools for Photoshop - https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop
     
@@ -26,6 +26,6 @@ Here I'll post and link all the resources I am using to achieve my goal, some wi
   
   Gimp - https://www.gimp.org/downloads/
   
-    Gimp DDS Plugin - http://registry.gimp.org/node/70
+    Gimp DDS Plugin - <http://registry.gimp.org/node/70>
     
   Blender Toolkit for SE - http://forum.keenswh.com/threads/se-block-tools-for-blender.7285972/
