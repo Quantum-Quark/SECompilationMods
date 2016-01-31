@@ -29,3 +29,5 @@ Here I'll post and link all the resources I am using to achieve my goal, some wi
   Gimp DDS Plugin - http://registry.gimp.org/node/70
   
   Blender Toolkit for SE - http://forum.keenswh.com/threads/se-block-tools-for-blender.7285972/
+
+  Space Engineers ModSDK - http://www.spaceengineersgame.com/introducing-space-engineers---modsdk.html
